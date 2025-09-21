@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 875b1cade1eb2a64badc2b33d2721a81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9080569375629533510
+    second: Kids b1-1 Cloud_0
+  - first:
+      213: 6000387033339697527
+    second: Kids b1-1 Cloud_1
+  - first:
+      213: -1491756902630470217
+    second: Kids b1-1 Cloud_2
+  - first:
+      213: -4375927091039224772
+    second: Kids b1-1 Cloud_3
+  - first:
+      213: 570871502325155377
+    second: Kids b1-1 Cloud_4
+  - first:
+      213: -7422395937976981806
+    second: Kids b1-1 Cloud_5
+  - first:
+      213: 1401147483299158978
+    second: Kids b1-1 Cloud_6
+  - first:
+      213: -5290616732665056242
+    second: Kids b1-1 Cloud_7
+  - first:
+      213: -4349397760993585459
+    second: Kids b1-1 Cloud_8
+  - first:
+      213: 8425373214156565494
+    second: Kids b1-1 Cloud_9
+  - first:
+      213: 5793816202336249707
+    second: Kids b1-1 Cloud_10
+  - first:
+      213: -4827464376972223870
+    second: Kids b1-1 Cloud_11
+  - first:
+      213: -549323217243299049
+    second: Kids b1-1 Cloud_12
+  - first:
+      213: 2216114049987697229
+    second: Kids b1-1 Cloud_13
+  - first:
+      213: 2752892981703594212
+    second: Kids b1-1 Cloud_14
+  - first:
+      213: 4615196899930161702
+    second: Kids b1-1 Cloud_15
+  - first:
+      213: 1024780497312154373
+    second: Kids b1-1 Cloud_16
+  - first:
+      213: -5839359952493680008
+    second: Kids b1-1 Cloud_17
+  - first:
+      213: -8642832061797197421
+    second: Kids b1-1 Cloud_18
+  - first:
+      213: 6581812450478822761
+    second: Kids b1-1 Cloud_19
+  - first:
+      213: -6567791584135770779
+    second: Kids b1-1 Cloud_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 796
+        width: 269
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4944637, y: 0.39311606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe9f4783465bf180800000000000000
+      internalID: -9080569375629533510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 774
+        width: 221
+        height: 244
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.42675805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77992152738a54350800000000000000
+      internalID: 6000387033339697527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 772
+        width: 158
+        height: 204
+      alignment: 9
+      pivot: {x: 0.51885056, y: 0.5511005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd497f20073c4be0800000000000000
+      internalID: -1491756902630470217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 786
+        width: 233
+        height: 189
+      alignment: 9
+      pivot: {x: 0.51917446, y: 0.49211967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c399fce759543c0800000000000000
+      internalID: -4375927091039224772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 302
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5345187, y: 0.42516324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360c745b942ce700800000000000000
+      internalID: 570871502325155377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 388
+        width: 276
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5701452, y: 0.5336545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6649e483a5ef890800000000000000
+      internalID: -7422395937976981806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 411
+        width: 244
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5061033, y: 0.48114845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb9af36630e17310800000000000000
+      internalID: 1401147483299158978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 579
+        width: 225
+        height: 184
+      alignment: 9
+      pivot: {x: 0.48014322, y: 0.5161869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f2cecc14f396b0800000000000000
+      internalID: -5290616732665056242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 574
+        width: 189
+        height: 190
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.46864688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6191dc7c5d3a3c0800000000000000
+      internalID: -4349397760993585459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 392
+        width: 174
+        height: 175
+      alignment: 9
+      pivot: {x: 0.48288175, y: 0.48297957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fba4e97c40fce470800000000000000
+      internalID: 8425373214156565494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 561
+        width: 238
+        height: 196
+      alignment: 9
+      pivot: {x: 0.48748472, y: 0.47720492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a72a9325c76050800000000000000
+      internalID: 5793816202336249707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 373
+        width: 215
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4307325, y: 0.5293441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad7b4e9b6610db0800000000000000
+      internalID: -4827464376972223870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 412
+        width: 9
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a651c1796068f0800000000000000
+      internalID: -549323217243299049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 232
+        height: 375
+      alignment: 9
+      pivot: {x: 0.59628683, y: 0.79387623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad44bacf731ce10800000000000000
+      internalID: 2216114049987697229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 210
+        width: 278
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0db17d49d343620800000000000000
+      internalID: 2752892981703594212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 170
+        width: 192
+        height: 219
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.54080063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62242dcc0297c0040800000000000000
+      internalID: 4615196899930161702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 196
+        width: 189
+        height: 175
+      alignment: 9
+      pivot: {x: 0.50787836, y: 0.49999878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5030a0bce60c83e00800000000000000
+      internalID: 1024780497312154373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 285
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ae8fbbf0d66fea0800000000000000
+      internalID: -5839359952493680008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 90
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399983f080e7e0880800000000000000
+      internalID: -8642832061797197421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 433
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5378326, y: 0.7138797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96598014d8b475b50800000000000000
+      internalID: 6581812450478822761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids b1-1 Cloud_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d89c41a548ad4a0800000000000000
+      internalID: -6567791584135770779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
